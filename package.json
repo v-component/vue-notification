@@ -10,11 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/v-component/vue-notification.git"
   },
-  "keywords": ["notification", "vue-component"],
-  "author": "xiaozhou",
+  "keywords": [
+    "notification",
+    "vue-component"
+  ],
+  "author": "zhouxinyong",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/v-component/vue-notification/issues"
   },
-  "homepage": "https://github.com/v-component/vue-notification#readme"
+  "homepage": "https://github.com/v-component/vue-notification#readme",
+  "devDependencies": {
+    "eslint": "^4.18.1",
+    "eslint-plugin-vue": "^4.2.2"
+  }
 }
